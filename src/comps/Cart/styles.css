@@ -1,0 +1,24 @@
+.cart {
+  padding-top: 150px;
+}
+.emptyButton {
+  min-width: 150px;
+  margin: 5px;
+  margin-right: 20px;
+}
+.checkoutButton {
+  min-width: 150px;
+}
+.link {
+  text-decoration: 'none';
+}
+.cardDetails {
+  display: flex;
+  margin-top: 10%;
+  width: 100%;
+  justify-content: space-between;
+}
+.title {
+  font-family: 'Roboto Mono', monospace;
+  font-size: 30px;
+}

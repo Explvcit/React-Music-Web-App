@@ -1,0 +1,46 @@
+.color {
+    background-color: #e84393;
+    background-image: linear-gradient(315deg, #eb4595 0%, #000000 74%);
+}
+
+body {
+    background-color: #2b1331;
+background-image: linear-gradient(315deg, #260f2c 0%, #dcd8ec 74%);
+}
+
+.recentWork {
+    font-family: 'Roboto Mono', monospace;
+    text-align: center;
+    font-size: 30px;
+    box-sizing: border-box;
+    color:rgba(20, 20, 20, 0.849);
+    font-weight: 600;
+    padding-top: 20px;
+    padding-bottom: 20px;
+}
+
+.yt {
+    font-family: 'Roboto Mono', monospace;
+    font-size: 30px;
+    color:rgba(20, 20, 20, 0.849);
+}
+
+
+
+.links{
+    margin: auto;
+    width: 50%;
+    padding: 10px;
+    padding-bottom: 200px;
+}
+
+@media (max-width: 767px) {
+    .root {
+        margin-top: 10px;
+        margin-bottom: 20px;
+    }
+    .break {
+        margin-top: 50px;
+    }
+}
+
